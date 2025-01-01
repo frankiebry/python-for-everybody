@@ -1,6 +1,8 @@
 """
 This solution uses a list and the append method which has not yet been taught by the book at this point
 So I don't think they want you to do it this way
+
+Update: Indeed, chapter 8 is about lists and exercise 6 of that chapter has you rewrite this code using a list
 """
 
 # Initializing our list

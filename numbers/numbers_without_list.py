@@ -2,6 +2,8 @@
 This solution does not use a list or the append method
 which has not yet been taught by the book at this point
 surprisingly it's fewer lines too
+
+Update: Indeed, chapter 8 is about lists and exercise 6 of that chapter has you rewrite this code using a list
 """
 
 # Initialize variables
