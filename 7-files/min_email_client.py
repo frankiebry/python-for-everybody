@@ -1,6 +1,6 @@
 # Exercise 5 from Chapter 8 of the book "Python for Everybody" by Charles Severance
 
-fhand = open('files/mbox-short.txt')
+fhand = open('txt-files/mbox-short.txt')
 
 count = 0
 for line in fhand:
